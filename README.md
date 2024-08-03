@@ -1,10 +1,12 @@
 # How-to-copy-trade-in-finvasia-Broker
 How to copy trade in finvasia Broker
 
- How-to-copy-trade-in-finvasia-Broker-
+ How-to-copy-trade-in-finvasia-Broker
 
 ## All in one Copy Trading Software For Indian Broker - is Copy Trading software for Major Indian Broker .
+Check software on below link
 
+https://bhansalisoft.com/Product/Copy-Trading-Software--India-Broker
 <ul>
 <li>
                         <strong>Software will copy all trades from master clients to all child clients</strong>
