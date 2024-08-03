@@ -32,6 +32,7 @@ How to copy trade in finvasia Broker
 						 <br />
 						 <img lass="img1"  src="https://bhansalisoft.com/evantosnap/copytradeing/angel.jpg" style="width: 200px; height: 200px;" alt="Angel Broking"  width="200px" />
 						 <img  class="img1" alt="Zerodha" src="https://bhansalisoft.com/evantosnap/copytradeing/zerodha.png" style="width: 200px; height: 200px;"  width="200px" />
+	 <img  class="img1" alt="Zerodha" src="https://bhansalisoft.com/evantosnap/copytradeing/finvasia.png" style="width: 200px; height: 200px;"  width="200px" />
 						 </li>
 </ul>
 
